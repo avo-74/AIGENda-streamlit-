@@ -1,25 +1,16 @@
-# 📦 Streamlit App Starter Kit 
-```
-⬆️ (Replace above with your app's name)
-```
+# Gemini Math Solver
 
-Description of the app ...
+An AI-powered math assistant built with **Python**, **Streamlit**, and **Google Gemini 1.5 Flash** that solves mathematical problems from uploaded images or text prompts.
 
-## Demo App
+## Features
+- Solve math problems from images
+- Solve text-based mathematical questions
+- Powered by Google Gemini AI
+- Simple and interactive Streamlit interface
+- Supports JPG, JPEG, and PNG images
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://app-starter-kit.streamlit.app/)
-
-## GitHub Codespaces
-
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/streamlit/app-starter-kit?quickstart=1)
-
-## Section Heading
-
-This is filler text, please replace this with text for this section.
-
-## Further Reading
-
-This is filler text, please replace this with a explanatory text about further relevant resources for this repo
-- Resource 1
-- Resource 2
-- Resource 3
+## Technologies Used
+- Python
+- Streamlit
+- Google Gemini API
+- Pillow
