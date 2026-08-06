@@ -1,4 +1,4 @@
-# Gemini Math Solver
+# Gemini Math Solver AI-ChatBot
 
 An AI-powered math assistant built with **Python**, **Streamlit**, and **Google Gemini 1.5 Flash** that solves mathematical problems from uploaded images or text prompts.
 
